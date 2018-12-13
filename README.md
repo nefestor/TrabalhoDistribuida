@@ -16,12 +16,12 @@ Na aba Framework Config:
                 Os outros parametros nao devem ser alterados
 		
 
-Na aba Project Config:
+	c)Na aba Project Config:
 		Nao deve alterar os parametros
 		
 Apos essas configuracoes deve se executar o projeto
 
-2 - Como executar a simulacao
+2 - Configurando Sinks e Nós Sensores
 
 	a)Criar Sinks:
 		Para iniciar a simulação deve-se criar novos nos do tipo Sink (Circulos Azuis)
